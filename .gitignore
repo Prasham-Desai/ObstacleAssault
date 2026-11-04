@@ -1,0 +1,64 @@
+# ==========================================
+# Unreal Engine 5 Gitignore
+# ==========================================
+
+# Visual Studio / VS Code / JetBrains Rider IDE
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.vsconfig
+
+# Unreal Engine temporary & build folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Plugin temporary / build folders
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# Packaged builds
+[Bb]uilds/
+*.apk
+*.aab
+*.ipa
+*.app
+*.dSYM/
+
+# Crash reports, dumps, and logs
+*.log
+*.dmp
+*.crashinfo
+
+# System & OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Unreal Engine autosaves & backups
+Backup/
+
+# ==========================================
+# Fab Marketplace Asset Packs (Ignored to keep repo lightweight)
+# Download/add these packs from Fab into Content/
+# ==========================================
+Content/LowerSector_Mod/
+Content/SciFi_Props/
+Content/Survival_Character/
+LowerSector_Mod/
+SciFi_Props/
+Survival_Character/
+Content/__ExternalActors__/Survival*
+Content/__ExternalObjects__/Survival*
