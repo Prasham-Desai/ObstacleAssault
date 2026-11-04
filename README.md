@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Images/Banner.png" width="100%" alt="Obstacle Assault Banner" style="border-radius: 10px;"/>
+  <img src="Images/github-intro-banner.svg" width="100%" alt="Intro Banner"/>
 </div>
 
 <div align="center">
@@ -16,6 +16,8 @@
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](https://github.com/)
 
 ---
+
+<img src="Images/Banner.png" alt="Obstacle Assault Splash Banner" width="100%" style="border-radius: 8px;"/>
 
 </div>
 
@@ -152,9 +154,11 @@ ObstacleAssault/
 │   ├── SciFi_Props/             # [Fab Asset] Sci-fi prop models & materials (gitignored)
 │   └── Survival_Character/      # [Fab Asset] Character mesh & animations (gitignored)
 ├── Images/                      # Project banners, logos, and icons
-│   ├── Banner.png
-│   ├── Logo.png
-│   └── Icon.png
+│   ├── Banner.png               # Game splash banner
+│   ├── github-intro-banner.svg  # Intro overview banner
+│   ├── github-readme-banner.svg # Creator signature footer banner
+│   ├── Logo.png                 # Game logo
+│   └── Icon.png                 # Game icon
 ├── Screenshots/                 # 2x2 gameplay showcase screenshots
 │   ├── SS1.png
 │   ├── SS2.png
@@ -174,5 +178,5 @@ ObstacleAssault/
 ---
 
 <div align="center">
-  <img src="Images/Banner.png" alt="Obstacle Assault Banner" width="100%" style="border-radius: 10px;"/>
+  <img src="Images/github-readme-banner.svg" alt="Creator Signature Banner"/>
 </div>
